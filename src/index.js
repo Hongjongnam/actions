@@ -4,6 +4,7 @@ function factorial(n){
     //     throw new Error('Factorial is only defined for non-negative integers!');
     // }
 
+
     if(n===0){
         return 1;
     }
